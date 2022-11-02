@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="283.265" height="406.205" viewBox="0 0 283.265 406.205">
+  <g id="Panneaux" transform="translate(0 0)">
+    <g id="BG_panneaux" data-name="BG panneaux" transform="matrix(0.978, -0.208, 0.208, 0.978, 0, 52.789)" fill="#fff" stroke="#5f8b8e" stroke-width="10">
+      <rect width="253.9" height="167.921" stroke="none"/>
+      <rect x="5" y="5" width="243.9" height="157.921" fill="none"/>
+    </g>
+    <text id="Pourquoi_venir_avec_anuncio_" data-name="Pourquoi
+venir avec
+anuncio ?" transform="translate(137.769 84.748) rotate(-14)" fill="#5f8b8e" font-size="29" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="-70.847" y="0">Pourquoi</tspan><tspan x="-79.141" y="35">venir avec</tspan><tspan x="-75.255" y="70">anuncio ?</tspan></text>
+    <rect id="Poteaux" width="13.708" height="216.159" transform="translate(143.695 190.342) rotate(-3)" fill="#5f8b8e"/>
+  </g>
+</svg>
