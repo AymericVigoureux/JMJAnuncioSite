@@ -11433,3 +11433,15 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+
+.citation{
+  font-family: 'Dancing Script';
+  font-weight: 500;
+  font-size: 3rem;
+}
+.quote{
+  font-family: 'Dancing Script';
+  font-weight: 500;
+  font-size: 1.5rem;
+}

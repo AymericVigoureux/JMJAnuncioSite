@@ -32,3 +32,15 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+function getRemainingTime(){
+    var date1 = new Date();
+    var date2 = new Date(2023, 8, 1);
+    var diff = new Date(date2.getTime() - date1.getTime());
+
+    var years = diff.getUTCFullYear() - 1970; // Gives difference as year
+    var months = diff.getUTCMonth(); // Gives month count of difference
+    var days = diff.getUTCDate()-1; // Gives day count of difference
+
+    return "remaining time = " + years + " years, " + months + " months, " + days + " days.";
+}
