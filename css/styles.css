@@ -10936,6 +10936,7 @@ section.resume-section .resume-section-content {
 }
 .text_prg{
   font-size: x-large;
+  text-align: justify;
 }
 .accordion-button{
   font-size: xx-large;
